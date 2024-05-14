@@ -1,0 +1,17 @@
+body{
+    background-color: #eac8bf;
+}
+h1{
+    color: white;
+    text-align: center;
+    background-color: #e6bd0b;
+    border-bottom: 5px solid #e6A30B;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+    color: white;
+    text-align: center;
+    background-color: brown;
+    border-bottom: 5px solid #e6A30B;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
