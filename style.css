@@ -13,5 +13,6 @@ h2{
     text-align: center;
     background-color: brown;
     border-bottom: 5px solid #e6A30B;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
 }
