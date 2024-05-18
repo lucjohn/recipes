@@ -16,3 +16,34 @@ h2{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
+
+#homepage{
+    border: 10px solid hotpink;
+    width: 300px;
+    margin: auto;
+    display: block;
+    border-radius: 25px;
+
+}
+.homepageList{
+    width: 50%;
+    margin: 20px auto 20px;
+    background-color: aliceblue;
+    border-radius: 25px;
+    padding-top: 30px;
+    text-align: center;
+}
+.homepageList ul{
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+    padding: 0px;
+
+}
+.homepageList li{
+    margin-bottom: 30px;
+    background-color: plum;
+    border-radius: 25px;
+    padding: 20px 100px;
+    border:10px solid pink;
+}
