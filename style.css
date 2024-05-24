@@ -17,13 +17,11 @@ h2{
     font-weight: bold;
 }
 
-#homepage{
+#homepageIMG{
     border: 10px solid hotpink;
-    width: 300px;
     margin: auto;
     display: block;
     border-radius: 25px;
-
 }
 .homepageList{
     width: 50%;
